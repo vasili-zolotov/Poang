@@ -21,7 +21,7 @@ before(function() {
 
 after(function() {
   var db_uri = process.env.MONGOLAB_URI || process.env.MONGODB_URI || config.default_db_uri;
-  mongoose.connect(db_uri);
+  //mongoose.connect(db_uri);
   
   // drop database
   mongoose.connection.db.executeDbCommand( {dropDatabase:1}, function() {
