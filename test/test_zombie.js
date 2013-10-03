@@ -51,7 +51,7 @@ describe('front page', function() {
     });
   });
 });
-describe('registration', function () {
+/*describe('registration', function () {
   it('should successfully register', function (done) {
     var browser = new zombie();
     browser.visit(base_url + "register", function () {
@@ -69,4 +69,4 @@ describe('registration', function () {
         });    
     });
   });
-});
+});*/
