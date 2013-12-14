@@ -1,4 +1,4 @@
-testing branch 5
+[![Build Status](http://strider.aws.paperg.com/524b2794297d256705000009/vasili-zolotov/Poang/badge)](http://strider.aws.paperg.com/vasili-zolotov/Poang/)
 
 ## Poang - A sample node.js/MongoDB app for Strider &amp; Heroku/MongoLab
 
